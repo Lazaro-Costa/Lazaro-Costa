@@ -6,7 +6,7 @@
 
 - 🔥 Junior Full-Stack (Web) Developer
 
-- 🌱 I’m currently learning **Nest.JS** to improve my **Back-End** experience
+- 🌱 I’m currently learning **UI/UX Design** to improve my **Front-End** experience
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React and Nest.**
 
