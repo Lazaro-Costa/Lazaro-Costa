@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nest.JS** to improve my **Back-End** experience
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React and Nest.**
 
 
 
